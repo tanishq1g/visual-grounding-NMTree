@@ -1,0 +1,6 @@
+997.jpg 'blue bag on bench' 1 'woman sitting on the bench beside the bag' 1
+941.jpg 'a person being held up by a parachute' 1 'object above the person' 1 'the paratrooper is going down' 0 'the parachute has C shape' 0
+982.jpg 'man wearing black coat' 0 'black dog walking on the sidewalk' 0 'person walking near the dog' 1
+1018.jpg 'sitting woman beside a man who is sitting' 1 'standing woman beside a man who is sitting' 1 'woman sitting beside the dining table' 1 'man sitting at the dining table' 1 'woman sitting at the dining table' 1 'woman standing to right of standing woman' 0 'woman standing to left of standing woman' 1  
+770.jpg 'a man on the street' 0 'a person on the street' 0 'white van on the road' 1 'car beside the white van' 0 'car next to the white van' 0 'car on left of the white van' 0 'man sitting inside the van' 0 'the bus next to the bicycle' 0  --- 2 for everything
+1757  'the red car near the traffic light'0 'the motorbike next to the white car' 0-- seems like bias towards large objects
